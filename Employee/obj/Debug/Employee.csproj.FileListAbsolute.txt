@@ -1,7 +1,0 @@
-F:\C#_Programs\Employee\Employee\bin\Debug\Employee.exe.config
-F:\C#_Programs\Employee\Employee\bin\Debug\Employee.exe
-F:\C#_Programs\Employee\Employee\bin\Debug\Employee.pdb
-F:\C#_Programs\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
-F:\C#_Programs\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
-F:\C#_Programs\Employee\Employee\obj\Debug\Employee.exe
-F:\C#_Programs\Employee\Employee\obj\Debug\Employee.pdb
